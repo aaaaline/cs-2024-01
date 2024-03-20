@@ -1,1 +1,1 @@
-# cs-2024-01
+Repositório criado criado para a matéria de Construção de Software 2024/1.
