@@ -16,19 +16,20 @@ O REST é um modelo de arquitetura relativamente flexível, pois permite aos pro
 
 ## Os 6 princípios do REST:
 
-1. Interface uniforme (uniform interface): as solicitações e respostas enviadas devem seguir um mesmo padrão. Aplicações e servidores podem ser desenvolvidas em todo tipo de linguagem, por isso uma interface uniforme é o que permite a comunicação de qualquer cliente com a API REST. 
+**1. Interface uniforme (uniform interface):** as solicitações e respostas enviadas devem seguir um mesmo padrão. Aplicações e servidores podem ser desenvolvidas em todo tipo de linguagem, por isso uma interface uniforme é o que permite a comunicação de qualquer cliente com a API REST; 
 
-2. Desacoplamento cliente-servidor (cliente-server separation): mudanças feitas pelo usuário na aplicação em seu dispositivo não devem afetar o servidor e sua estrutura de dados, assim como alterações feitas do lado do servidor não devem instantaneamente impactar o dispositivo do usuário.
+**2. Desacoplamento cliente-servidor (cliente-server separation):** mudanças feitas pelo usuário na aplicação em seu dispositivo não devem afetar o servidor e sua estrutura de dados, assim como alterações feitas do lado do servidor não devem instantaneamente impactar o dispositivo do usuário;
 
-3. Sem estado definido (stateless): a comunicação feita entre um cliente um servidor não pode armazenar nenhum dado relacionado às solicitações feitas pelo cliente. Dessa forma, é necessário que cada solicitação feita inclua todas as informações necessárias para seu processamento. 
+**3. Sem estado definido (stateless):** a comunicação feita entre um cliente um servidor não pode armazenar nenhum dado relacionado às solicitações feitas pelo cliente. Dessa forma, é necessário que cada solicitação feita inclua todas as informações necessárias para seu processamento;
 
-4. Capacidade de armazenamento em cache (cacheable): quando possível, informações devem ser armazenadas em cache, de modo a otimizar as interações entre o cliente e o servidor.
+**4. Capacidade de armazenamento em cache (cacheable):** quando possível, informações devem ser armazenadas em cache, de modo a otimizar as interações entre o cliente e o servidor;
 
-5. Arquitetura de sistema em camadas (layered system): entre um cliente e um servidor que se comunicam, podem existir diversas camadas, cada uma com uma função específica. Esse princípio determina que as mensagem trocadas entre o cliente e o servidor sejam sempre processadas da mesma maneira, independentemente da quantidade de camadas intermediárias existentes.
+**5. Arquitetura de sistema em camadas (layered system):** entre um cliente e um servidor que se comunicam, podem existir diversas camadas, cada uma com uma função específica. Esse princípio determina que as mensagem trocadas entre o cliente e o servidor sejam sempre processadas da mesma maneira, independentemente da quantidade de camadas intermediárias existentes; e
 
-6. Código sob demanda (code on demand) - opcional: trata-se da capacidade de enviar um código executável do servidor para o cliente quando solicitado para ampliar a funcionalidade disponível ao cliente. 
+**6. Código sob demanda (code on demand) - opcional:** trata-se da capacidade de enviar um código executável do servidor para o cliente quando solicitado para ampliar a funcionalidade disponível ao cliente. 
 
 ## Referências bibliográficas:
 
-[IBM](https://www.ibm.com/br-pt/topics/rest-apis)
-[REST API Tutorial](https://restfulapi.net/)
+- [IBM](https://www.ibm.com/br-pt/topics/rest-apis)
+- [Hostinger](https://www.hostinger.com.br/tutoriais/api-restful)
+- [REST API Tutorial](https://restfulapi.net/)
