@@ -7,7 +7,7 @@ public class TesteLogin {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        Login login = new Login("usuario", "123456");
+        Login login = new Login("aline", "123456");
 
         System.out.print("Usuário: ");
         String usuario = scanner.nextLine();
