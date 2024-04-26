@@ -21,7 +21,9 @@ public class TesteLogin {
     public static void testar_login(Login login, String usuario, String senha) {
         try {
             boolean resultado_login = login.fazer_login(usuario, senha);
-            System.out.println(resultado_login ? "Sucesso ao fazer login!" : "Falha ao fazer login!");
+            if (resultado_login) {
+                System.out.println("Sucesso ao fazer login!");
+            }
 
         } catch (LoginInvalidoException e) {
             System.out.println("Erro ao fazer login!\n" + e.getMessage());
