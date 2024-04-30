@@ -1,8 +1,10 @@
 # Atividade de pesquisa sobre qualidade do código
 
-**1.** O artigo de referência escolhido para a realização da atividade foi: [Fatores de qualidade na programação](https://www.devmedia.com.br/fatores-de-qualidade-na-programacao/29780).
+### 1.
+ O artigo de referência escolhido para a realização da atividade foi: [Fatores de qualidade na programação](https://www.devmedia.com.br/fatores-de-qualidade-na-programacao/29780).
 
-**2.** O texto escolhido é introduzido com o conceito de qualidade de software e, em seu desenvolvimento, apresenta os fatores que impactam no nível de qualidade de um software, bem como enfatiza a importância de um software com boa qualidade.
+### 2.
+O texto escolhido é introduzido com o conceito de qualidade de software e, em seu desenvolvimento, apresenta os fatores que impactam no nível de qualidade de um software, bem como enfatiza a importância de um software com boa qualidade.
 
 Inicialmente, é ressaltada a importância da linguagem de programação escolhida para ser utilizada na construção do software. É importante sempre analisar o que é importante e o que deve ser priorizado em cada projeto, pois diferentes linguagens possuem diferentes direcionamentos.
 
@@ -17,4 +19,5 @@ Por último, para assegurar a qualidade do software, deve-se levar em considera�
 Quanto à minha compreensão sobre os assuntos abordados no artigo, posso dizer que grande parte deles já era de meu conhecimento, como a importância da linguagem, da documentação, da legibilidade do código-fonte e do reaproveitamento de código. A parte que mais escapa dos meus conhecimentos, seria a parte de testes. Obviamente, eu conheço a importância da etapa de testagem de software, porém, os tipos de testes, especificamente, é um assunto sobre o qual não tenho muito domínio. Do mesmo modo, os meios de garantir a segurança do projeto é algo sobre o qual não possuo grande conhecimento.
 
 
-**3.** O artigo nos mostra o que é e a importância da qualidade dentro do desenvolvimento de software. São apresentados, também, fatores que acabam por impactar na qualidade de software, especialmente na qualidade do código-fonte. Aspectos como importância da escolha da linguagem de programação a ser utilizada no projeto, legibilidade de código, documentação, reaproveitamento de código, testes e segurança são explicados e exemplificados no decorrer do artigo, de forma que possamos compreender esses aspectos, bem como o impacto deles na qualidade de um projeto e quão importantes eles são.
+### 3.
+O artigo nos mostra o que é e a importância da qualidade dentro do desenvolvimento de software. São apresentados, também, fatores que acabam por impactar na qualidade de software, especialmente na qualidade do código-fonte. Aspectos como importância da escolha da linguagem de programação a ser utilizada no projeto, legibilidade de código, documentação, reaproveitamento de código, testes e segurança são explicados e exemplificados no decorrer do artigo, de forma que possamos compreender esses aspectos, bem como o impacto deles na qualidade de um projeto e quão importantes eles são.
